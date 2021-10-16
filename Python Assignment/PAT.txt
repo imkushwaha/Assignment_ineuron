@@ -1,0 +1,16 @@
+
+Personal Acess Tokens (Github)
+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
+
+
+Repo: Assignment_ineuron
+git push https://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@github.com/imkushwaha/Assignment_ineuron.git
+
+
+git push https://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@github.com/imkushwaha/ineuron_challenge_task.git
+
+
+
+
+
+
